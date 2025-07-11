@@ -45,6 +45,7 @@ Report vulnerabilities via the dedicated email **SilentSilent@feedback.email.cn*
   Your contact information (for follow-up)  
 
 如果无法精准反馈，详细描述问题即可，感激不尽🙏
+
 If you cannot provide precise feedback, please describe the problem in detail, and we will be grateful.🙏
 
 
@@ -73,9 +74,13 @@ If you cannot provide precise feedback, please describe the problem in detail, a
 
 
 *最后更新 | Last Updated: 2025-07-11*
+
 *本政策适用于 SilentStudio 开发的所有具备更新功能或提供支持的项目*
+
 *This policy applies to all projects developed by SilentStudio that offer updates or support*
---------🇨🇳---------------------------🇨🇳--------------------------🇨🇳-------------------------🇨🇳-------- 
+
+  --------🇨🇳---------------------------🇨🇳--------------------------🇨🇳-------------------------🇨🇳-------- 
+
 请勿复制粘贴，复制后更改。
 未经SilentStudio许可，不得转载、引用、参考、修改。
 如有需要，请联系：SilentStudio@home.email.cn
